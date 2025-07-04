@@ -105,3 +105,7 @@ Feel free to fork this repository, make improvements, and submit pull requests.
 ## License
 
 This project is developed for educational purposes as part of a 5-Week Coding Class.
+
+## Contact
+
+For any questions or feedback, please open an issue in the GitHub repository.
